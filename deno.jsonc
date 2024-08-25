@@ -113,6 +113,7 @@
     "./pipe/zip": "./pipe/zip.ts",
     "./range": "./range.ts",
     "./reduce": "./reduce.ts",
+    "./reverse": "./reverse.ts",
     "./repeat": "./repeat.ts",
     "./some": "./some.ts",
     "./take": "./take.ts",
